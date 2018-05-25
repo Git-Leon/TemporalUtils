@@ -1,5 +1,3 @@
-* Greeptopia is a place of wierd time.
-
 * TemporalUtils
 	* time delta
 	* time remaining
