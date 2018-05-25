@@ -1,5 +1,5 @@
 # TemporalUtils
-The purpose of this repository is to generate random objects; Floats, Doubles, Longs, Integers, Strings, Dates
+The purpose of this repository is to
 
 ## Usage
 * This dependency is hosted on [packagecloud.io](https://packagecloud.io/git-leon/utils/packages/java/com.github.git-leon/temporalutils-1.0.jar)
